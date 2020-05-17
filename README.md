@@ -1,2 +1,2 @@
 # Pytorch
-Pytorch practice examples
+Pytorch p ractice examples
